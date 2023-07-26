@@ -6,3 +6,5 @@ The amplifier is designed to be driven with symmetrical audio signals connected 
 
 ![Image of Casing](https://github.com/muxxu/XLR-Headphone-Amp/blob/main/casing_img.png?raw=true)
 ![Image of PCB](https://github.com/muxxu/XLR-Headphone-Amp/blob/main/pcb_img.png?raw=true)
+
+If you are interested in building one or have any questions feel free to contact me.
